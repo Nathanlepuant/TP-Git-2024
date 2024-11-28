@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("HelloWord !");
+    printf("Hello INSA !");
     return 0;
 }
