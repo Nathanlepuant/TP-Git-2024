@@ -16,7 +16,7 @@ def noms_binome():
     """
 
 
-a = 2
+a = 3
 b = 1
 
 print(f"La somme de {a} et {b} vaut {addition(a, b)}")
